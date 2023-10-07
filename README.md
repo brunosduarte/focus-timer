@@ -1,1 +1,1 @@
-# focus-timer v1
+# focus-timer v1.0
